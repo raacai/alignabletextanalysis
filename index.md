@@ -8,8 +8,8 @@ This post with the title: "What challenges have you faced marketing or selling y
 
 First analysis the main keywords of the title are:
 
-. 1 **"What challenges"**
-. 2 **"your services"**
+1. **"What challenges"**
+2. **"your services"**
 
 It is so evident that small business owners are very interested to read and communicate the challenges which they are facing now. 
 
@@ -23,13 +23,13 @@ The subtitle also gave us a great idea of the success of this post.
 
 Using the same AI keyword analysis we have:
 
-. 1 **Many businesses**
-. 2 **their efforts**
-. 3 **their online presence**
-. 4 **this year**
-. 5 **What questions**
-. 6 **your digital marketing**
-. 7 **online sales**
+1.  **Many businesses**
+2.  **their efforts**
+3.  **their online presence**
+4.  **this year**
+5.  **What questions**6
+6.  **your digital marketing**
+7.  **online sales**
 
 The flow idea makes sense since in the subtitle it evokes a solution **digital marketing** and the area of impact **online sales.** Also, the subtitle creates an identification with the reader, remember business owners, which are **doing their efforts to have an online presence.** Even if you are not doing efforts or not have a digital presence. Also, it provokes some curiosity in the theme of how the business, who actually are selling online are performing.
 
@@ -288,9 +288,9 @@ The main sentiment of all Alignable post comments: **NEUTRAL**. This is an avera
 
 This type of analysis can be replicated to a several discussion Forum.
 
-More, if you want analyze you customer comments in your social media, site or even at your writen feedbacks, we at RAAC AI can do this for you.
+**More, if you want to analyze your customer comments in your social media, site or even at your written feedbacks, we at RAAC AI can do this for you.**
 
-Start to use it! 
+Start to use it!
 
 ---
 
