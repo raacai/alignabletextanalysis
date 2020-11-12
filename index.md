@@ -13,9 +13,7 @@ First analysis the main keywords of the title are:
 
 It is so evident that small business owners are very interested to read and communicate the challenges which they are facing now. 
 
-I was not able at first glance to see *when* this post was published. Forward I will create a temporal analysis to contextualize by the time the comments, and this will probably give us an idea of when it was published. 
-
-Also, this title has more than 90% of neutral sentiment idea and just 10% of negative. What does it mean? The people are more attracted to a neutral question than positive or negative. 
+**Using advance A.I. text analysis has more than 90% of neutral sentiment idea and just 10% of negative. What does it mean? The people are more attracted to a neutral question than positive or negative.** Here start the benefits of using A.I. to your advertisement strategies. Be honest, did you know that? 
 
 The subtitle also gave us a great idea of the success of this post. 
 
@@ -27,7 +25,7 @@ Using the same AI keyword analysis we have:
 2.  **their efforts**
 3.  **their online presence**
 4.  **this year**
-5.  **What questions**6
+5.  **What questions**
 6.  **your digital marketing**
 7.  **online sales**
 
