@@ -280,18 +280,19 @@ We can also try to make sense of the post analyzing the different trigram. A tri
 </tbody>
 </table>
 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The main sentiment of all Alignable post comments: **NEUTRAL**. This is an average result, meaning that business owners are somehow "comfortable", again in overall, with this proposed discussion theme.  
 
 ---
 
-### Category Name 2
+### Final considerations
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+This type of analysis can be replicated to a several discussion Forum.
+
+More, if you want analyze you customer comments in your social media, site or even at your writen feedbacks, we at RAAC AI can do this for you.
+
+Start to use it! 
+
+<p style="font-size:12px"> Get in touch<a href="mailto:rmasiniexpert@gmail.com"> send me an email!</a></p>
 
 ---
 
