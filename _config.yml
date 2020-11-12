@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: The Power of AI for Small Business Owners 
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  A pratical example of A.I. tools to benefit small business owners 
   <br><br>
-  Second description 
+  Get in touch to start use it! 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href = "https://api.whatsapp.com/send?phone=14075775375&text=Hi%20Rodrigo%20,%20I%20came%20from%20you%20Github%20page%20." target = "_blank">My Whatsapp</a>
+  <br><br>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
