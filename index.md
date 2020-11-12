@@ -8,8 +8,8 @@ This post with the title: "What challenges have you faced marketing or selling y
 
 First analysis the main keywords of the title are:
 
-.1 **"What challenges"**
-.2 **"your services"**
+. 1 **"What challenges"**
+. 2 **"your services"**
 
 It is so evident that small business owners are very interested to read and communicate the challenges which they are facing now. 
 
@@ -23,13 +23,13 @@ The subtitle also gave us a great idea of the success of this post.
 
 Using the same AI keyword analysis we have:
 
-.1 **Many businesses**
-.2 **their efforts**
-.3 **their online presence**
-.4 **this year**
-.5 **What questions**
-.6 **your digital marketing**
-.7 **online sales**
+. 1 **Many businesses**
+. 2 **their efforts**
+. 3 **their online presence**
+. 4 **this year**
+. 5 **What questions**
+. 6 **your digital marketing**
+. 7 **online sales**
 
 The flow idea makes sense since in the subtitle it evokes a solution **digital marketing** and the area of impact **online sales.** Also, the subtitle creates an identification with the reader, remember business owners, which are **doing their efforts to have an online presence.** Even if you are not doing efforts or not have a digital presence. Also, it provokes some curiosity in the theme of how the business, who actually are selling online are performing.
 
@@ -47,9 +47,79 @@ So let's do it.
 
 If you want to see the public post that I will analyze just click [here.](https://www.alignable.com/forum/what-do-you-want-to-learn-about-digital-marketing-or-online-sales?_tid=851847&page=1)
 
-Extract information from a site requires a good understanding of Html, CSS and java languages. So just a professional usually can do this type of extraction from a web site. But to make things more clear all sites are tagged. What does it mean that every section that you see in a page, like services, contact and so on has a tag and I will use those tags to make the extraction.
+Extract information from a site requires a good understanding of Html, CSS and java languages. So just a professional usually can do this type of extraction from a web site. But to make things more clear all sites are tagged. What does it mean? Well, that every section that you see in a page, like services, contact and so on has a tag. Those you can see but it is use to show images, links, forms and even for Google Analytics. Since, you understand that, I will use those tags to make the extraction of this Alignable post data.
 
 I will jump in what matters and show the final result of the extraction.
+
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> biz_owner_company </th>
+   <th style="text-align:left;"> biz_owner_local </th>
+   <th style="text-align:left;"> biz_owner_answer_date </th>
+   <th style="text-align:left;"> biz_owner_sentiment </th>
+   <th style="text-align:left;"> biz_owner_kwords </th>
+   <th style="text-align:left;"> biz_third_online_ads </th>
+   <th style="text-align:left;"> biz_owner_link </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Dechan Inc. Custom Printing &amp; Promotional Products </td>
+   <td style="text-align:left;"> LAS VEGAS, NV </td>
+   <td style="text-align:left;"> 2020-11-02 </td>
+   <td style="text-align:left;"> NEGATIVE </td>
+   <td style="text-align:left;"> facebook short videos me the simple terms online marketing businesses time by Carol Ann Dechansuch a person </td>
+   <td style="text-align:left;"> facebook </td>
+   <td style="text-align:left;"> https://www.alignable.com/las-vegas-nv/dechan-ii-inc </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Brain Fart Productions, LLC </td>
+   <td style="text-align:left;"> LAS VEGAS, NV </td>
+   <td style="text-align:left;"> 2020-11-03 </td>
+   <td style="text-align:left;"> MIXED </td>
+   <td style="text-align:left;"> two different marketers my web page the first the major problems crazy unwanted blogs facebook unwanted posts my site par another web developer a brand new site the old one the analytics and seo this time a simple word press the plug ins themes anything worth another expense the basic premium standing a parking lot a hot car a sign by Hilary OHarean idea </td>
+   <td style="text-align:left;"> facebook </td>
+   <td style="text-align:left;"> https://www.alignable.com/las-vegas-nv/dechan-ii-inc </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Maggie Holbik of Crystal Clear Coaching &amp; Webpros2 Premium Plus </td>
+   <td style="text-align:left;"> GOLETA, CA </td>
+   <td style="text-align:left;"> 2020-11-03 </td>
+   <td style="text-align:left;"> POSITIVE </td>
+   <td style="text-align:left;"> my services technology i a long time the pandemic business my hashtag workandplayfromanywhere other business owners the digital world a switch businesses some form their online presence great pleasure this time history the digital world an existing brick and mortar type business global by Maggie Holbik.comthe opportunities </td>
+   <td style="text-align:left;"> none </td>
+   <td style="text-align:left;"> https://www.alignable.com/goleta-ca/find-your-song </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Simply Beautiful Cakes </td>
+   <td style="text-align:left;"> GOLETA, CA </td>
+   <td style="text-align:left;"> 2020-11-02 </td>
+   <td style="text-align:left;"> NEUTRAL </td>
+   <td style="text-align:left;"> all i your pricing your online products your pricing your online prices chances your website your information my products wedding cakes and edibles the time a call my customers the challenge your prices a small custom bakery my home more people the internet cakes and edibles the area their friends loved ones by Maryann Potterporch side service </td>
+   <td style="text-align:left;"> none </td>
+   <td style="text-align:left;"> https://www.alignable.com/goleta-ca/find-your-song </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Destination4Education Premium Plus </td>
+   <td style="text-align:left;"> HUDSON FALLS, NY </td>
+   <td style="text-align:left;"> 2020-11-03 </td>
+   <td style="text-align:left;"> POSITIVE </td>
+   <td style="text-align:left;"> the positive affirmations the hundreds small business meeting positive collaborations businesses a key by Paul L Odendahlsmall business </td>
+   <td style="text-align:left;"> none </td>
+   <td style="text-align:left;"> https://www.alignable.com/hudson-falls-ny/merchant-services-of-upstate-new-york </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> OC Artisan Jewelry Premium </td>
+   <td style="text-align:left;"> HUDSON FALLS, NY </td>
+   <td style="text-align:left;"> 2020-11-03 </td>
+   <td style="text-align:left;"> NEUTRAL </td>
+   <td style="text-align:left;"> a big challenge an online website seo search engine optimization a nice website i a stream offerings seo website top google ranking i fear lots by Ofelia Cisnerosmoney </td>
+   <td style="text-align:left;"> google </td>
+   <td style="text-align:left;"> https://www.alignable.com/hudson-falls-ny/merchant-services-of-upstate-new-york </td>
+  </tr>
+</tbody>
+</table>
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
