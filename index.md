@@ -121,12 +121,28 @@ I will jump in what matters and show the final result of the extraction.
 </tbody>
 </table>
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+So that is it! I scrapped all comments of business owners(but just show you only 5!). 
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Now what?
+
+Well, now we can select the comments by sentiment. For example, if people write a negative comment, it means that the business owner is stuck, snot using or even having bad results from their online activity. Marketing, advertising and other specialists can use this information to reach these people and offer their services.
+
+More, we can see the keywords of the comments, and filtering people. Example, let's say I am interested in people that comment **not successful** or **bad results**. So I understand they need to have a supportive approach to what they are doing. Another example, if I select people who comment **none** so a specialist can reach this guy and show the benefits of having a good online presence.
+
+Also, let's suppose that I am interested to learn with people who are having success in online marketing. I can select then from positive sentiment and keywords. Reach them by Alignable platform and build a new connection. I can choose people by location too.  
+
+Sometimes, people are interested to understand which day people are more **availabe** to see and write a comment. This is important when we are trying to reach the **correct message, to right people in the best time.**
+The graph below is another example of how we can do that.
+
+
+
+[Number of comments throug a week](/sample_page)
+<img src="images/Ascommentsgraph.png?raw=true"/>
+
+Or even the sentiment.
+
+[Emotional valence of the comments through week](/pdf/sample_presentation.pdf)
+<img src="images/Asentimentgraph.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
