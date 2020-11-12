@@ -136,16 +136,79 @@ The graph below is another example of how we can do that.
 
 
 
-[Number of comments throug a week](/sample_page)
-<img src="images/Ascommentsgraph.png?raw=true"/>
+<img src="images/Acommentsgraph.png?raw=true"/>
+**Number of comments throug a week**
 
 Or even the sentiment.
 
-[Emotional valence of the comments through week](/pdf/sample_presentation.pdf)
+**Emotional valence of the comments through week**
 <img src="images/Asentimentgraph.png?raw=true"/>
+**Emotional valence of the comments through week**
+
+Much more can be done. **AI it is most powerful tool that a business owner can have to overcome the challenges of a COVID era.**
+
+We at [RAAC AI](https://raacai.com) are specialized in creating **personalized A.I. products to small business.**
 
 ---
-[Project 3 Title](http://example.com/)
+### A post overview analysis
+
+**AI can do more for you and your business.** Let's say you are interested not in a specific person but the overall information about the comments. Its is possible?
+
+Sure! I will show you some examples below. 
+
+#### Top 10 words found in the post
+
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> word </th>
+   <th style="text-align:right;"> n </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> online </td>
+   <td style="text-align:right;"> 237 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> business </td>
+   <td style="text-align:right;"> 220 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> marketing </td>
+   <td style="text-align:right;"> 148 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> people </td>
+   <td style="text-align:right;"> 147 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> clients </td>
+   <td style="text-align:right;"> 111 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> services </td>
+   <td style="text-align:right;"> 101 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> time </td>
+   <td style="text-align:right;"> 92 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> website </td>
+   <td style="text-align:right;"> 76 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> don </td>
+   <td style="text-align:right;"> 74 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> customers </td>
+   <td style="text-align:right;"> 65 </td>
+  </tr>
+</tbody>
+</table>
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
