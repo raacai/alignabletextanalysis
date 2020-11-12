@@ -2,7 +2,7 @@
 
 ## Focus to demonstrate the benefits of using A.I.
 
-### Case: Text and sentiment analysis of Alignable digital marketing discussion post 
+## Case: Text and sentiment analysis of Alignable digital marketing discussion post 
 
 This post with the title: "What challenges have you faced marketing or selling your services online? What would you most like to learn about" had approximately **32k views** and **510 comments**. One of the most visualized posts in Alignable. That was my motivation to create a text and sentiment analysis. 
 
@@ -43,7 +43,7 @@ As an example let's try to figure out how people feel about this theme, also, wh
 
 So let's do it. 
 
-### 1) Extracting the URL tags and creating the rational of output
+### Extracting the URL tags and creating the rational of output
 
 If you want to see the public post that I will analyze just click [here.](https://www.alignable.com/forum/what-do-you-want-to-learn-about-digital-marketing-or-online-sales?_tid=851847&page=1)
 
@@ -150,7 +150,7 @@ Much more can be done. **AI it is most powerful tool that a business owner can h
 We at [RAAC AI](https://raacai.com) are specialized in creating **personalized A.I. products to small business.**
 
 ---
-### A post overview analysis
+## A post overview analysis
 
 **AI can do more for you and your business.** Let's say you are interested not in a specific person but the overall information about the comments. Its is possible?
 
@@ -208,6 +208,78 @@ Sure! I will show you some examples below.
   </tr>
 </tbody>
 </table>
+
+We can also try to make sense of the post analyzing the different trigram. A trigram is a group of three consecutive written units such as letters, syllables, or words. This helps us to find out the main sequence of 3 words in the Alignable discussion post.
+
+#### Top trigram
+
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> word1 </th>
+   <th style="text-align:left;"> word2 </th>
+   <th style="text-align:left;"> word3 </th>
+   <th style="text-align:right;"> n </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> search </td>
+   <td style="text-align:left;"> engine </td>
+   <td style="text-align:left;"> optimization </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> commercial </td>
+   <td style="text-align:left;"> real </td>
+   <td style="text-align:left;"> estate </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> email </td>
+   <td style="text-align:left;"> email </td>
+   <td style="text-align:left;"> address </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> mary </td>
+   <td style="text-align:left;"> kay </td>
+   <td style="text-align:left;"> cosmetics </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> online </td>
+   <td style="text-align:left;"> retail </td>
+   <td style="text-align:left;"> business </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> providing </td>
+   <td style="text-align:left;"> advice </td>
+   <td style="text-align:left;"> based </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> selling </td>
+   <td style="text-align:left;"> services </td>
+   <td style="text-align:left;"> online </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> seo </td>
+   <td style="text-align:left;"> search </td>
+   <td style="text-align:left;"> engine </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> social </td>
+   <td style="text-align:left;"> media </td>
+   <td style="text-align:left;"> presence </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+</tbody>
+</table>
+
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
